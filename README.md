@@ -10,7 +10,7 @@ I have been active in computer science education since 2003, alongside professio
 
 ## Current Focus
 
-I am currently building **[Webie](https://www.webie.gr) **, an evolving ecosystem of productivity, developer, browser, and AI tools.
+I am currently building ** [Webie](https://www.webie.gr) **, an evolving ecosystem of productivity, developer, browser, and AI tools.
 
 A major part of that work is the **Webie Browser**, which is being prepared for a public open-source release.
 

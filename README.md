@@ -28,8 +28,6 @@ I mainly use GitHub for:
 - Educational repositories shared with students
 - Selected open-source releases
 
-The public repositories here are simply the projects I have chosen to make publicly available.
-
 ---
 
 ## Engineering Interests

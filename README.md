@@ -14,7 +14,7 @@ I am currently building **Webie** ( [link here](https://www.webie.gr) ), an evol
 
 A major part of that work is the **Webie Browser**, which is being prepared for a public open-source release.
 
-I am also the founder of **IDBS — Innovative Digital Business Solutions**, focused on software, digital products, AI solutions, automation, and technical consulting, B2B education (seminars etc.) .
+I am also the founder of **IDBS - Innovative Digital Business Solutions**, focused on software, digital products, AI solutions, automation, and technical consulting, B2B education (seminars etc.) .
 
 ---
 
